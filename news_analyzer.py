@@ -34,7 +34,7 @@ with st.sidebar:
     st.header("Configuration")
     
     # API Keys
-    gemini_api_key = "AIzaSyCICpSXuCPzAGVT4VdDIqFQysch3w-irec"#st.text_input("Google Gemini API Key", type="password")
+    gemini_api_key = ""#st.text_input("Google Gemini API Key", type="password")
     #medium_api_key = st.text_input("Medium API Key (optional)", type="password")
     
     # Scraping options
